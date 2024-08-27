@@ -62,6 +62,7 @@
     "Image Number": "Image Number",
     "Negative Prompt": "Negative Prompt",
     "Describing what you do not want to see.": "Describing what you do not want to see.",
+    "Uses the internet to translate prompts to English.": "Uses the internet to translate prompts to English.",
     "Random": "Random",
     "Seed": "Seed",
     "Disable seed increment": "Disable seed increment",
